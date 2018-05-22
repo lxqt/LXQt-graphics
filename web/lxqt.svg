@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="lxqt.svg"
+   inkscape:export-filename="./lxqt_logo_and_name.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1791"
+     inkscape:window-height="948"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.49411765"
+     inkscape:cx="425"
+     inkscape:cy="175"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <title
+     id="title4078">LXQt logo</title>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LXQt logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Giacomo Barazzetti</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-559.98853,-445.48535)"
+     inkscape:label="Logo"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.99848932"
+       d="m 766.5022,494.97363 c -7.11498,0.0359 -14.2206,1.82844 -20.48047,5.21484 -7.70445,4.16788 -14.09209,10.72995 -18.04882,18.54493 -3.95675,7.81498 -5.46678,16.84858 -4.26563,25.52539 1.20115,8.67681 5.10811,16.96005 11.03906,23.40625 -3.08157,-5.73226 -4.54369,-12.32473 -4.17383,-18.82227 0.36987,-6.49755 2.57104,-12.88103 6.28321,-18.22656 3.71217,-5.34553 8.92373,-9.63775 14.88281,-12.25391 5.95908,-2.61617 12.64812,-3.54925 19.0957,-2.66406 9.03396,1.24028 17.51443,6.11897 23.13086,13.30273 h 90 l -78.96484,-10.88476 c -6.56922,-12.47448 -19.56735,-21.33214 -33.58008,-22.88477 -1.63242,-0.18087 -3.27605,-0.2661 -4.91797,-0.25781 z"
+       id="right"
+       sodipodi:nodetypes="cscsccscsccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0192d3;fill-opacity:1;stroke:none;stroke-width:0.99848932"
+       d="m 624.98462,510.35449 c -5.78454,11.42756 -8.07427,24.59555 -6.48437,37.30469 1.58989,12.70914 7.05128,24.90817 15.47265,34.55859 4.71124,5.39882 10.35601,9.95529 16.57227,13.51563 l -17.60352,-4.94922 c -0.84957,9.92688 1.10348,20.07864 5.57422,28.98242 4.47073,8.90378 11.44502,16.5334 19.91407,21.78125 12.57198,7.79023 28.40328,10.1172 42.68554,6.27539 -14.30682,0.10187 -28.483,-7.00155 -36.96484,-18.52344 -4.78596,-6.50134 -7.79479,-14.29735 -8.61914,-22.32812 l 83.60742,13.67383 -67.59766,-19.00782 c -5.40628,-2.62562 -10.34613,-6.21565 -14.46875,-10.58984 -5.70184,-6.04979 -9.84416,-13.55794 -11.92187,-21.60742 -2.37898,-9.21666 -2.02637,-19.11971 1,-28.14453 l 99.69727,55.89257 z m 162.58594,43.64453 c -1.97303,4.09208 -3.34358,8.47435 -4.05664,12.96094 -2.21157,13.91525 1.9267,27.97053 6.05078,41.44336 4.12408,13.47284 8.32791,27.49414 6.24805,41.42969 -1.55394,10.41176 -6.63477,20.15614 -13.74414,27.91992 -7.10936,7.76379 -16.18359,13.59993 -25.93164,17.57422 -16.06328,6.54902 -34.12692,8.08755 -51.06641,4.34961 v 46.32421 l 13.92969,-33.06835 c 18.05337,4.1173 37.38011,2.4519 54.46289,-4.69336 12.22917,-5.11512 23.38877,-13.07877 31.4375,-23.61133 8.04873,-10.53257 12.85139,-23.6958 12.51172,-36.94727 -0.40824,-15.92661 -7.93412,-30.68657 -15.21875,-44.85547 -7.28464,-14.1689 -14.66515,-29.04101 -14.7461,-44.97265 -0.007,-1.28508 0.0333,-2.57156 0.12305,-3.85352 z"
+       id="left"
+       sodipodi:nodetypes="cssccsscsccccsccccssscscccsssscc" />
+  </g>
+</svg>
